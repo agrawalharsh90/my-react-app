@@ -11,10 +11,7 @@ function App() {
                 molestiae quas quis, quo reprehenderit similique sit soluta tempora totam. Illum maiores minima
                 molestiae mollitia voluptatem? <strong>{count}</strong></p>
             <button onClick={() => setCout(count + 1)}>click</button>
-            <Card title={'Heeloo'}/>
-            <Card title={'123'}/>
-            <Card title={'HeeABC'}/>
-            <Card title={'789'}/>
+            <Card title={'Hello Card'}/>
         </>
 
     );
